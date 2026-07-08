@@ -1,0 +1,30 @@
+# ignore logs
+logs/
+
+# ignore dist
+dist/
+build/
+
+node_modules/
+package-lock.json
+
+.vscode/
+.idea/
+
+.npm/
+yarn.lock
+
+
+.idea/
+target/
+.tmp/
+.idea/
+target/
+.vscode/
+.claude/
+CLAUDE.md
+SKILLS.md
+
+.DS_Store
+**/.DS_Store
+local_tasks/
