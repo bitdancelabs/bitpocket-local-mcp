@@ -8,6 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/bitdancelabs/bitpocket-local-mcp">https://github.com/bitdancelabs/bitpocket-local-mcp</a>
+  <br />
+  <a href="https://www.npmjs.com/package/@bitdancelabs/bitpocket-local-mcp">https://www.npmjs.com/package/@bitdancelabs/bitpocket-local-mcp</a>
 </p>
 
 ## 가이드
